@@ -35,4 +35,10 @@ while ans:
     
     elif answers == 8:
         print "My sources say no"
+
+    elif answers == 9:
+        print "My sources say new test"
+
+    elif answers == 10:
+        print "My sources say yet another test"
         
